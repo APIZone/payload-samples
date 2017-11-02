@@ -1,0 +1,6 @@
+{
+    "error_type": "ClientError",
+    "error_code": 409,
+    "error_message": "Duplicate External Reference, Kindly ensure `external_reference` is unique for each request!",
+    "trace_audit_number": "246205bf-bf97-11e7-a501-9f1ab9c96056"
+}

@@ -1,0 +1,27 @@
+{
+  "identifier": {
+    "external_reference": "4d872ed8-8583-4dc4-85f4-e78dfb23b027"
+  },
+  "content": {
+    "transaction_code": "FTIN",
+    "debit_account_code": "D8934097B8E2CAAA",
+    "credit_account": "5029728001",
+    "credit_bank": "AZBK001",
+    "transaction_amount": 10000.00,
+    "remarks": "Christmas Gift",
+    "extended_fields": [
+      {
+          "field_name": "BANK_SPECIFIC_FIELD_1",
+          "field_value": "bank_specific_value_1"
+        },
+        {
+          "field_name": "BANK_SPECIFIC_FIELD_2",
+          "field_value": "bank_specific_value_2"
+        },{
+          "field_name": "BANK_SPECIFIC_FIELD_3",
+          "field_value": "bank_specific_value_3"
+        }
+    ]
+  }
+}            
+ 

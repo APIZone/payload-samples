@@ -1,0 +1,6 @@
+{
+    "error_type": "ServiceError",
+    "error_code": 555,
+    "error_message": "RRN=5E1F87A1C151, Response Code=912",
+    "trace_audit_number": "84c73a59-bf99-11e7-b94b-25a332951460"
+}
