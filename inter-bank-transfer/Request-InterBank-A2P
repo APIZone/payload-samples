@@ -1,0 +1,27 @@
+{
+  "identifier": {
+    "external_reference": "3A181D2F924A0001"
+  },
+  "content": {
+    "transaction_code": "FTIN",
+    "debit_account_code": "059D385ACD1D5777",
+    "credit_mobile": "254790999957",
+    "credit_bank": "AZBK001",
+    "transaction_amount": 100.00,
+    "remarks": "No remarks",
+    "extended_fields": [
+      {
+          "field_name": "BANK_SPECIFIC_FIELD_1",
+          "field_value": "bank_specific_value_1"
+        },
+        {
+          "field_name": "BANK_SPECIFIC_FIELD_2",
+          "field_value": "bank_specific_value_2"
+        },{
+          "field_name": "BANK_SPECIFIC_FIELD_3",
+          "field_value": "bank_specific_value_3"
+        }
+    ]
+  }
+}            
+ 
