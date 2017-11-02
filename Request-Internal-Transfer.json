@@ -1,0 +1,26 @@
+{
+  "identifier": {
+    "external_reference": "3A781D2F924C9001"
+  },
+  "content": {
+    "transaction_code": "FTIN",
+    "debit_account_code": "059D385ACD1D5777",
+    "credit_account": "5029728001",
+    "transaction_amount": 50000,
+    "remarks": "N/A",
+    "extended_fields": [
+			{
+          "field_name": "BANK_SPECIFIC_FIELD_1",
+          "field_value": "bank_specific_value_1"
+        },
+        {
+          "field_name": "BANK_SPECIFIC_FIELD_2",
+          "field_value": "bank_specific_value_2"
+        },{
+          "field_name": "BANK_SPECIFIC_FIELD_3",
+          "field_value": "bank_specific_value_3"
+        }
+    ]
+  }
+}            
+ 

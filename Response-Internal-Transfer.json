@@ -1,0 +1,10 @@
+{
+    "identifier": {
+        "bank_code": "AZBK001",
+        "trace_audit_number": "196fc738-be4b-11e7-939a-cf1771c72e60"
+    },
+    "content": {
+        "transaction_reference": "000FTIN172495101",
+        "authorization_status": "A"
+    }
+}
